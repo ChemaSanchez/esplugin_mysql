@@ -3,7 +3,7 @@ FXServer esplugin_mysql  | Chema Leaks
 
 [REQUIREMENTS]
 
--  => https://github.com/ChemaLeaks/mysql-async
+mysql-async  => https://github.com/ChemaLeaks/mysql-async
 
 [INSTALLATION]
 
